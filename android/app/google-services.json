@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501164974341",
+    "firebase_url": "https://ohgaph-dev.firebaseio.com",
+    "project_id": "ohgaph-dev",
+    "storage_bucket": "ohgaph-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501164974341:android:82c4e820093119cb",
+        "android_client_info": {
+          "package_name": "org.app.ohgaph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501164974341-867i47kd3ih28lbgoq5tjs5l986td6t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdghWl7q4kr2AzaJ963SB1Oub4TJGuyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
